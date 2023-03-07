@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: belendesign.art/sitemap.xml
+Sitemap: https://belenqik.github.io/website/sitemap.xml
