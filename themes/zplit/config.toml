@@ -201,4 +201,5 @@ I also use techniques such as hammering, patina, and raw elements to create beau
 connect = [
     {url = "https://www.etsy.com/shop/belendsign", text = "Etsy"},
     {url = "https://www.instagram.com/belendsign/", text = "Instagram"},
+    {url = "mailto:belen.qik@gmail.com},
 ]
