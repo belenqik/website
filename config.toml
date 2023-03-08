@@ -199,6 +199,6 @@ I also use techniques such as hammering, patina, and raw elements to create beau
 
 [config.extra.lists]
 connect = [
-    {url = "https://t.me/zwitterio", text = "Etsy"},
-    {url = "https://twitter.com/gicrisf", text = "Instagram"},
+    {url = "https://www.etsy.com/shop/belendsign", text = "Etsy"},
+    {url = "https://www.instagram.com/belendsign/", text = "Instagram"},
 ]
