@@ -2,7 +2,7 @@
 base_url = "https://belendesign.art"
 
 # The site title and description; used in feeds by default.
-title = "Belen Design"
+title = "Belén Design"
 description = "Artist. Designer. Creator."
 
 # The default language; used in feeds.
@@ -175,7 +175,7 @@ index_format = "elasticlunr_javascript"
 #
 [extra]
 
-author = "Belen Link"
+author = "Belén Link"
 
 [extra.visual]
 
@@ -190,3 +190,4 @@ social = [
 [extra.content]
 
 intro_tagline = "Artist. Designer. Creator."
+bio = I am inspired by sci-fi and fantasy; a theme that is quite prevalent throughout my shop. But I also love nature (botany and universe ) which has a strong presence as well. I currently spend most of my time in my studio in Portland, Oregon. I delving into the world of copper and polymer clay arts which has given me the tools I need to create my craft. From accessories like incense holder, Shodō paper holder and jewelry to tea pet I can make all of my favorite design with nothing but my hands, some natural original pears sea, gold paper and some knots. For some pieces I use the techniques such as hammering, patina, and fire & environment. always wanting my creations to be as beautiful, detailed, and realistic as possible. I hope you appreciate my handcrafted pieces.
