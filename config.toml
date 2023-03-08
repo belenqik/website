@@ -191,10 +191,14 @@ social = [
 
 intro_tagline = "Artist. Designer. Creator."
 bio = """\
-I am inspired by sci-fi and fantasy; a theme that is quite prevalent throughout my shop. But I also love nature (botany and universe ) which has a strong presence as well.  \
-I currently spend most of my time in my studio in Portland, Oregon. I delving into the world of copper and polymer clay arts which has given me the tools I need to create my craft. \
-From accessories like incense holder, Shodō paper holder and jewelry to tea pet I can make all of my favorite design with nothing but my hands, some natural original pears sea, gold paper and some knots. \
-For some pieces I use the techniques such as hammering, patina, and fire & environment. always wanting my creations to be as beautiful, detailed, and realistic as possible. \
-\
-I hope you appreciate my handcrafted pieces.
+I am inspired by the fantastical. A theme that is quite prevalent throughout my work. My love of nature has a strong presence as well and can
+be seen through my use of copper and clay. \
+I also use techniques such as hammering, patina, and raw elements to create beautiful and detailed handicrafts. \
 """
+
+
+[config.extra.lists]
+connect = [
+    {url = "https://t.me/zwitterio", text = "Etsy"},
+    {url = "https://twitter.com/gicrisf", text = "Instagram"},
+]
